@@ -7,3 +7,10 @@ for j in range(1,500):
 
 for k in range(1,800):
     print(k)
+
+n=100
+while n:
+    n-=1
+    print(n)
+
+
